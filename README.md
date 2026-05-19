@@ -1,8 +1,6 @@
 # NYC Taxi Trip Duration Prediction
 
-Predicting taxi trip duration in New York City using machine learning.
-Built as a portfolio project targeting commercial ML and LLM roles in London.
-
+Predicting taxi trip duration in New York City using ML models
 ## Problem
 Given pickup/dropoff coordinates, time of day, and passenger information,
 predict how long a NYC taxi trip will take. Accurate duration prediction
